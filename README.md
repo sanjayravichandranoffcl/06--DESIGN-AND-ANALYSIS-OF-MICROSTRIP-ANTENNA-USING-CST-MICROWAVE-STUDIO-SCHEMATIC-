@@ -15,5 +15,6 @@ RF system architecture can be implemented using RF System models available in th
 <img width="619" height="475" alt="image" src="https://github.com/user-attachments/assets/18400bc4-b166-4809-a232-3115221101a9" />
 
 **Conclusion:**
+The quarter-wave transformer was successfully designed using CST Microwave Studio to match a 50 Ω line with a 123 Ω load. The transformer achieved proper impedance matching, improving signal transfer and minimizing reflections.
 
 
